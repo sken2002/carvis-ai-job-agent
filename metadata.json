@@ -1,0 +1,5 @@
+{
+  "name": "Carvis",
+  "description": "An AI-powered career assistant to help students find jobs, tailor their CV and cover letter, and prepare for interviews using Gemini.",
+  "requestFramePermissions": []
+}
